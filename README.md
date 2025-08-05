@@ -1,7 +1,7 @@
 # Workers Compensation Claim Injury Type Prediction
 
 ## Abstract  
-This project addresses the challenge faced by the New York Workers’ Compensation Board (WCB) to automate the decision-making process for workers’ compensation claims. Using claim data from 2020 to 2022, we developed machine learning models to predict the **type of injury** associated with each claim. We evaluated several classification algorithms, optimized the best-performing models, and explored additional insights, including feature importance and predicting related variables such as agreement status. Our findings demonstrate that tree-based ensemble methods like XGBoost offer strong predictive performance, and incorporating additional variables may further improve accuracy. This work aims to streamline WCB’s claim handling and reduce manual workload.
+This project addresses the challenge faced by the New York Workers’ Compensation Board (WCB) to automate the decision-making process for workers’ compensation claims. Using claim data from 2020 to 2022, we developed machine learning models to predict the **Claim Injury Type** associated with each claim. We evaluated several classification algorithms, optimized the best-performing models, and explored additional insights, including feature importance and predicting related variables such as agreement status. Our findings demonstrate that tree-based ensemble methods like XGBoost offer strong predictive performance, and incorporating additional variables may further improve accuracy. This work aims to streamline WCB’s claim handling and reduce manual workload.
 
 ---
 
